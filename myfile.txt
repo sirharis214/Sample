@@ -1,0 +1,5 @@
+This is my sample file.
+I want to be able to push this on to git from my terminal for a test run.
+So far i have not been able to get git to work the way i want from terminal.
+lets see if we can make it work now.
+
